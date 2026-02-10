@@ -66,13 +66,3 @@ streamlit run app.py
 ```
 
 Running this command will start the Streamlit interface, allowing you to interact with the deep research application through a user-friendly web interface. Check the terminal output for the local URL to access the interface in your web browser. Go to the provided URL (usually `http://localhost:8501`) to access the Streamlit app.
-
-## 📬 Stay Updated with Our Newsletter!
-
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
-
-## Contribution
-
-Contributions are welcome! Feel free to fork this repository and submit pull requests with your improvements.
